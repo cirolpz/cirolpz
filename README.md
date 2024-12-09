@@ -2,8 +2,7 @@
 
 ### Sobre mí
 Soy un desarrollador apasionado con experiencia en diversas tecnologías. Me encanta aprender y colaborar en proyectos interesantes. Actualmente, soy estudiante de tercer año de Licenciatura en Sistemas y Técnico Informático especializado en programación.
-# 
-![cirolpz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cirolpz&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
+
 ### Tecnologías
 - **Lenguajes de programación:** <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 - **Frameworks y librerías:** <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
@@ -38,5 +37,9 @@ Soy un desarrollador apasionado con experiencia en diversas tecnologías. Me enc
 - 🌱 Actualmente estoy aprendiendo: Docker, Angular y Spring Boot
 - 💬 Pregúntame sobre: Desarrollo web, programación en Java, ciberseguridad
 - ⚡ Dato curioso: Disfruto aprendiendo y trabajando en equipo, creyendo que la colaboración eficiente lleva a mejores resultados.
+
+![cirolpz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cirolpz&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
+
+
 
 ¡Gracias por visitar mi perfil!
