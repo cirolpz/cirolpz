@@ -19,15 +19,6 @@ Soy un desarrollador apasionado con experiencia en diversas tecnologías. Me enc
 - [Desarrollo de videojuego](enlace-al-proyecto): Videojuego utilizando POO como proyecto solidario para un programa de ayuda a chicos con necesidades especiales.
 - [Director de proyectos web](enlace-al-proyecto): Lideré el proceso completo de creación e implementación del sitio web de la Escuela Técnica n°2.
 
-### Certificaciones
-- **ONE | Oracle Next Education:** Formación integral en desarrollo web, manejo de APIs y principios ágiles. 12 meses.
-- **Java - Argentina Programa 4.0:** Curso completo y avanzado de Hacking Ético. 10 meses.
-- **Ciberseguridad:** Curso de 3 meses con el Profesor Santiago Hernandez.
-- **Java Bootcamp - ATL Academy:** Curso de 7 meses.
-
-### Educación
-- **Universidad Nacional de General Sarmiento (UNGS):** Licenciatura en Sistemas (Febrero de 2021 - Diciembre de 2027).
-- **E.E.S.Tec N°2 Dr. René Favaloro:** Tecnicatura en Informática, Especialización en Programación (2013 - 2021).
 
 ### Contacto
 - **Correo electrónico:** lopezciromartin@gmail.com
