@@ -4,7 +4,7 @@
 Soy un desarrollador apasionado con experiencia en diversas tecnologías. Me encanta aprender y colaborar en proyectos interesantes. Actualmente, soy estudiante de tercer año de Licenciatura en Sistemas y Técnico Informático especializado en programación.
 
 ### Tecnologías
-- **Lenguajes de programación:** Java, C++, Python, JavaScript, Assembler
+- **Lenguajes de programación:** Java <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>, C++<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> , Python <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> , JavaScript <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> , Assembler
 - **Frameworks y librerías:** Spring Boot, React, Angular, Bootstrap, Tailwind
 - **Bases de datos:** MySQL, PostgreSQL
 - **Herramientas y plataformas:** Git, Docker
