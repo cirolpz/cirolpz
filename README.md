@@ -25,15 +25,9 @@ Soy un desarrollador apasionado con experiencia en diversas tecnologías. Me enc
 - **Universidad Nacional de General Sarmiento (UNGS):** Licenciatura en Sistemas (Febrero de 2021 - Diciembre de 2027).
 - **E.E.S.Tec N°2 Dr. René Favaloro:** Tecnicatura en Informática, Especialización en Programación (2013 - 2021).
 
-### Experiencia Laboral
-- **Mera Solution:** Centro de asesoría telefónica - VISA.
-- **Manufacturas Karnuk:** Operario en fábrica de calzados.
-
 ### Contacto
 - **Correo electrónico:** lopezciromartin@gmail.com
 - **LinkedIn:** [Ciro Lopez](https://www.linkedin.com/in/ciro-lopez-835259184/)
-- **GitHub:** [cirolpz](https://github.com/cirolpz)
-- **Teléfono:** +54 11 3947-0039
 
 ### Otros
 - 🌱 Actualmente estoy aprendiendo: Docker, Angular y Spring Boot
