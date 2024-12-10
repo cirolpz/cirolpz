@@ -3,7 +3,7 @@
 ### Sobre mí
 Soy un desarrollador apasionado con experiencia en diversas tecnologías. Me encanta aprender y colaborar en proyectos interesantes. Actualmente, soy estudiante de tercer año de Licenciatura en Sistemas y Técnico Informático especializado en programación.
 
-### Tecnologías con als que trabajé
+### Tecnologías con las que trabajé
 - **Lenguajes de programación:** <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 - **Frameworks y librerías:** <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 - **Bases de datos:**  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
@@ -13,20 +13,44 @@ Soy un desarrollador apasionado con experiencia en diversas tecnologías. Me enc
 
 ### Proyectos Destacados
 
-[![Video del Proyecto](https://img.youtube.com/vi/OMiMnBaMZz0/maxresdefault.jpg)](https://www.youtube.com/watch?v=OMiMnBaMZz0)
-- [ScreenMatch-ManejoDeSeriesConAPIyBD](https://github.com/cirolpz/ScreenMatch-ManejoDeSeriesConAPIyBD): Aplicación basada en Java que permite a los usuarios buscar series de TV y episodios, obtener información detallada y gestionar una colección de series. Utiliza Spring Boot y bases de datos.
-
-[![Video del Proyecto](https://img.youtube.com/vi/21LM3EXHvR4/maxresdefault.jpg)](https://www.youtube.com/watch?v=21LM3EXHvR4)
-- [Clique-Maxima-de-grafo-con-Heuristicas](https://github.com/cirolpz/Clique-Maxima-de-grafo-con-Heuristicas): Implementación de estructuras de datos de grafos y algoritmos relacionados en Java. Proporciona funcionalidades como cargar grafos desde archivos y heurísticas para obtener la clique máxima, con test unitarios.
-
-[![Video del Proyecto](https://img.youtube.com/vi/3ohxWuWwB3U/maxresdefault.jpg)](https://www.youtube.com/watch?v=3ohxWuWwB3U)
-- [Generador-de-Regiones-de-grafo](https://github.com/cirolpz/Generador-de-Regiones-de-grafo): Proyecto que permite establecer similitudes entre provincias y visualizar conexiones en un mapa. Verifica si el grafo es conexo y crea regiones basadas en las similitudes entre provincias, con test unitarios.
-
-[![Video del Proyecto](https://img.youtube.com/vi/2jLjgfIf_14/maxresdefault.jpg)](https://www.youtube.com/watch?v=2jLjgfIf_14)
-- [juego-2048-java](https://github.com/cirolpz/juego-2048-java): Implementación del popular juego 2048 en Java con una interfaz gráfica de usuario (GUI) usando SWING.
-
-[![Video del Proyecto](https://img.youtube.com/vi/F9NmK5cMNkU/maxresdefault.jpg)](https://www.youtube.com/watch?v=F9NmK5cMNkU)
-- [PaginaWEB-Tecnica2DrReneFavaloro](https://github.com/cirolpz/PaginaWEB-Tecnica2DrReneFavaloro): Proyecto final presentado en 2021 para recibirte de técnico informático. Lideré un grupo de cuatro personas en la creación e implementación del sitio web de la Escuela Técnica n°2 Dr. Rene Favaloro.
+<table>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=OMiMnBaMZz0" target="_blank">
+        <img src="https://img.youtube.com/vi/OMiMnBaMZz0/maxresdefault.jpg" alt="ScreenMatch-ManejoDeSeriesConAPIyBD" style="width:100%;">
+      </a>
+      <p><a href="https://github.com/cirolpz/ScreenMatch-ManejoDeSeriesConAPIyBD">ScreenMatch-ManejoDeSeriesConAPIyBD</a>: Aplicación basada en Java que permite a los usuarios buscar series de TV y episodios, obtener información detallada y gestionar una colección de series. Utiliza Spring Boot y bases de datos.</p>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=21LM3EXHvR4" target="_blank">
+        <img src="https://img.youtube.com/vi/21LM3EXHvR4/maxresdefault.jpg" alt="Clique-Maxima-de-grafo-con-Heuristicas" style="width:100%;">
+      </a>
+      <p><a href="https://github.com/cirolpz/Clique-Maxima-de-grafo-con-Heuristicas">Clique-Maxima-de-grafo-con-Heuristicas</a>: Implementación de estructuras de datos de grafos y algoritmos relacionados en Java. Proporciona funcionalidades como cargar grafos desde archivos y heurísticas para obtener la clique máxima, con test unitarios.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=3ohxWuWwB3U" target="_blank">
+        <img src="https://img.youtube.com/vi/3ohxWuWwB3U/maxresdefault.jpg" alt="Generador-de-Regiones-de-grafo" style="width:100%;">
+      </a>
+      <p><a href="https://github.com/cirolpz/Generador-de-Regiones-de-grafo">Generador-de-Regiones-de-grafo</a>: Proyecto que permite establecer similitudes entre provincias y visualizar conexiones en un mapa. Verifica si el grafo es conexo y crea regiones basadas en las similitudes entre provincias, con test unitarios.</p>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=2jLjgfIf_14" target="_blank">
+        <img src="https://img.youtube.com/vi/2jLjgfIf_14/maxresdefault.jpg" alt="juego-2048-java" style="width:100%;">
+      </a>
+      <p><a href="https://github.com/cirolpz/juego-2048-java">juego-2048-java</a>: Implementación del popular juego 2048 en Java con una interfaz gráfica de usuario (GUI) usando SWING.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=F9NmK5cMNkU" target="_blank">
+        <img src="https://img.youtube.com/vi/F9NmK5cMNkU/maxresdefault.jpg" alt="PaginaWEB-Tecnica2DrReneFavaloro" style="width:100%;">
+      </a>
+      <p><a href="https://github.com/cirolpz/PaginaWEB-Tecnica2DrReneFavaloro">PaginaWEB-Tecnica2DrReneFavaloro</a>: Proyecto final presentado en 2021 para recibirte de técnico informático. Lideré un grupo de cuatro personas en la creación e implementación del sitio web de la Escuela Técnica n°2 Dr. Rene Favaloro.</p>
+    </td>
+  </tr>
+</table>
 
 - [SISTEMA_DE_ENVIOS_POO](https://github.com/cirolpz/SISTEMA_DE_ENVIOS_POO): Sistema de envío de paquetes que mejora la organización del flujo de envíos. Utiliza POO, TAD, estructuras de datos, test unitarios y principios SOLID.
 
