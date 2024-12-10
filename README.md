@@ -49,6 +49,12 @@ Soy un desarrollador apasionado con experiencia en diversas tecnologías. Me enc
       </a>
       <p><a href="https://github.com/cirolpz/PaginaWEB-Tecnica2DrReneFavaloro">PaginaWEB-Tecnica2DrReneFavaloro</a>: Proyecto final presentado en 2021 para recibirte de técnico informático. Lideré un grupo de cuatro personas en la creación e implementación del sitio web de la Escuela Técnica n°2 Dr. Rene Favaloro.</p>
     </td>
+        <td>
+      <a href="https://www.youtube.com/watch?v=bTxkskolrQo" target="_blank">
+        <img src="https://img.youtube.com/vi/bTxkskolrQo/maxresdefault.jpg" alt="Wordle-en-Assembler-ARM" style="width:100%;">
+      </a>
+      <p><a href="https://github.com/cirolpz/Wordle-en-Assembler-ARM">PaginaWEB-Tecnica2DrReneFavaloro</a>Este proyecto es un juego de Wordle para consola, desarrollado en lenguaje ensamblador ARMv6 para la Raspberry Pi v1.2. Representa la aplicación de técnicas de programación de bajo nivel.</p>
+    </td>
   </tr>
 </table>
 
