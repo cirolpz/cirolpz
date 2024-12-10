@@ -24,8 +24,6 @@ Soy un desarrollador apasionado con experiencia en diversas tecnologías. Me enc
   <br>
 [![Video del Proyecto](https://img.youtube.com/vi/F9NmK5cMNkU/maxresdefault.jpg)](https://www.youtube.com/watch?v=F9NmK5cMNkU)
 - [Director de proyectos web](enlace-al-proyecto): Lideré el proceso completo de creación e implementación del sitio web de la Escuela Técnica n°2.
-  <br>
-[![Video del Proyecto](https://img.youtube.com/vi/F9NmK5cMNkU/maxresdefault.jpg)](https://www.youtube.com/watch?v=F9NmK5cMNkU)
 
 
 ### Contacto
