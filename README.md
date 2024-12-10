@@ -28,10 +28,8 @@ Soy un desarrollador apasionado con experiencia en diversas tecnologías. Me enc
 [![Video del Proyecto](https://img.youtube.com/vi/F9NmK5cMNkU/maxresdefault.jpg)](https://www.youtube.com/watch?v=F9NmK5cMNkU)
 - [PaginaWEB-Tecnica2DrReneFavaloro](https://github.com/cirolpz/PaginaWEB-Tecnica2DrReneFavaloro): Proyecto final presentado en 2021 para recibirte de técnico informático. Lideré un grupo de cuatro personas en la creación e implementación del sitio web de la Escuela Técnica n°2 Dr. Rene Favaloro.
 
-[![Video del Proyecto](https://img.youtube.com/vi/N1PzyUvri68/maxresdefault.jpg)](https://www.youtube.com/watch?v=N1PzyUvri68)
 - [SISTEMA_DE_ENVIOS_POO](https://github.com/cirolpz/SISTEMA_DE_ENVIOS_POO): Sistema de envío de paquetes que mejora la organización del flujo de envíos. Utiliza POO, TAD, estructuras de datos, test unitarios y principios SOLID.
 
-[![Video del Proyecto](https://img.youtube.com/vi/T1sufIcNDPY/maxresdefault.jpg)](https://www.youtube.com/watch?v=T1sufIcNDPY)
 - [Juego-Java-POO-AstroMegaShip](https://github.com/cirolpz/Juego-Java-POO-AstroMegaShip): Juego desarrollado en Java utilizando POO, creado para un programa de ayuda a niños con capacidades especiales.
 
 - [CampanaEmailMarketingSpringBoot](https://github.com/cirolpz/CampanaEmailMarketingSpringBoot): Aplicación basada en Spring Boot diseñada para gestionar campañas de marketing por correo electrónico.
