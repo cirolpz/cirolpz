@@ -13,17 +13,32 @@ Soy un desarrollador apasionado con experiencia en diversas tecnologías. Me enc
 
 ### Proyectos Destacados
 
+[![Video del Proyecto](https://img.youtube.com/vi/2jLjgfIf_14/maxresdefault.jpg)](https://www.youtube.com/watch?v=2jLjgfIf_14)
+- [Clique-Maxima-de-grafo-con-Heuristicas](https://github.com/cirolpz/Clique-Maxima-de-grafo-con-Heuristicas): Implementación de estructuras de datos de grafos y algoritmos relacionados en Java. Proporciona funcionalidades como cargar grafos desde archivos y heurísticas para obtener la clique máxima, con test unitarios.
+
+[![Video del Proyecto](https://img.youtube.com/vi/3ohxWuWwB3U/maxresdefault.jpg)](https://www.youtube.com/watch?v=3ohxWuWwB3U)
+- [Generador-de-Regiones-de-grafo](https://github.com/cirolpz/Generador-de-Regiones-de-grafo): Proyecto que permite establecer similitudes entre provincias y visualizar conexiones en un mapa. Verifica si el grafo es conexo y crea regiones basadas en las similitudes entre provincias, con test unitarios.
+
+[![Video del Proyecto](https://img.youtube.com/vi/21LM3EXHvR4/maxresdefault.jpg)](https://www.youtube.com/watch?v=21LM3EXHvR4)
+- [juego-2048-java](https://github.com/cirolpz/juego-2048-java): Implementación del popular juego 2048 en Java con una interfaz gráfica de usuario (GUI) usando SWING.
+
+[![Video del Proyecto](https://img.youtube.com/vi/F9NmK5cMNkU/maxresdefault.jpg)](https://www.youtube.com/watch?v=F9NmK5cMNkU)
+- [PaginaWEB-Tecnica2DrReneFavaloro](https://github.com/cirolpz/PaginaWEB-Tecnica2DrReneFavaloro): Proyecto final presentado en 2021 para recibirte de técnico informático. Lideré un grupo de cuatro personas en la creación e implementación del sitio web de la Escuela Técnica n°2 Dr. Rene Favaloro.
+
 [![Video del Proyecto](https://img.youtube.com/vi/OMiMnBaMZz0/maxresdefault.jpg)](https://www.youtube.com/watch?v=OMiMnBaMZz0)
 - [ScreenMatch-ManejoDeSeriesConAPIyBD](https://github.com/cirolpz/ScreenMatch-ManejoDeSeriesConAPIyBD): Aplicación basada en Java que permite a los usuarios buscar series de TV y episodios, obtener información detallada y gestionar una colección de series. Utiliza Spring Boot y bases de datos.
-  <br>
+
 [![Video del Proyecto](https://img.youtube.com/vi/N1PzyUvri68/maxresdefault.jpg)](https://www.youtube.com/watch?v=N1PzyUvri68)
-- [Sistema de Envíos](https://github.com/cirolpz/SISTEMA_DE_ENVIOS_POO): Sistema de envío de paquetes que mejora la organización del flujo de envíos. Utiliza POO, TAD, Estructuras de Datos, test unitarios y principios SOLID.
-  <br>
-  [![Video del Proyecto](https://img.youtube.com/vi/T1sufIcNDPY/maxresdefault.jpg)](https://youtu.be/watch?T1sufIcNDPY)
-- [Desarrollo de videojuego](https://github.com/cirolpz/Juego-Java-POO-AstroMegaShip): Videojuego utilizando POO como proyecto solidario para un programa de ayuda a chicos con necesidades especiales.
-  <br>
-[![Video del Proyecto](https://img.youtube.com/vi/F9NmK5cMNkU/maxresdefault.jpg)](https://www.youtube.com/watch?v=F9NmK5cMNkU)
-- [Director de proyectos web](https://github.com/cirolpz/PaginaWEB-Tecnica2DrReneFavaloro): Lideré el proceso completo de creación e implementación del sitio web de la Escuela Técnica n°2.
+- [SISTEMA_DE_ENVIOS_POO](https://github.com/cirolpz/SISTEMA_DE_ENVIOS_POO): Sistema de envío de paquetes que mejora la organización del flujo de envíos. Utiliza POO, TAD, estructuras de datos, test unitarios y principios SOLID.
+
+[![Video del Proyecto](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+- [Juego-Java-POO-AstroMegaShip](https://github.com/cirolpz/Juego-Java-POO-AstroMegaShip): Juego desarrollado en Java utilizando POO, creado para un programa de ayuda a niños con capacidades especiales.
+
+[![Video del Proyecto](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+- [CampanaEmailMarketingSpringBoot](https://github.com/cirolpz/CampanaEmailMarketingSpringBoot): Aplicación basada en Spring Boot diseñada para gestionar campañas de marketing por correo electrónico.
+
+[![Video del Proyecto](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+- [TriviaConChatGPTYBaseDeDatos](https://github.com/cirolpz/TriviaConChatGPTYBaseDeDatos): Proyecto para aprender Spring Boot y conectarse a la API de ChatGPT y una base de datos. Las preguntas de la trivia las realiza ChatGPT o se cargan manualmente.
 
 
 ### Contacto
