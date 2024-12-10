@@ -16,8 +16,8 @@ Soy un desarrollador apasionado con experiencia en diversas tecnologías. Me enc
 [![Video del Proyecto](https://img.youtube.com/vi/OMiMnBaMZz0/maxresdefault.jpg)](https://www.youtube.com/watch?v=OMiMnBaMZz0)
 - [ScreenMatch-ManejoDeSeriesConAPIyBD](https://github.com/cirolpz/ScreenMatch-ManejoDeSeriesConAPIyBD): Aplicación basada en Java que permite a los usuarios buscar series de TV y episodios, obtener información detallada y gestionar una colección de series. Utiliza Spring Boot y bases de datos.
   <br>
-  [![Video del Proyecto](https://img.youtube.com/vi/VIDN1PzyUvri68EO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=N1PzyUvri68)
-- [Sistema de Envíos](enlace-al-proyecto): Sistema de envío de paquetes que mejora la organización del flujo de envíos. Utiliza POO, TAD, Estructuras de Datos, test unitarios y principios SOLID.
+[![Video del Proyecto](https://img.youtube.com/vi/N1PzyUvri68/maxresdefault.jpg)](https://www.youtube.com/watch?v=N1PzyUvri68)
+- [Sistema de Envíos](https://github.com/cirolpz/SISTEMA_DE_ENVIOS_POO): Sistema de envío de paquetes que mejora la organización del flujo de envíos. Utiliza POO, TAD, Estructuras de Datos, test unitarios y principios SOLID.
   <br>
   [![Video del Proyecto](https://img.youtube.com/vi/T1sufIcNDPY/maxresdefault.jpg)](https://youtu.be/watch?T1sufIcNDPY)
 - [Desarrollo de videojuego](https://github.com/cirolpz/Juego-Java-POO-AstroMegaShip): Videojuego utilizando POO como proyecto solidario para un programa de ayuda a chicos con necesidades especiales.
