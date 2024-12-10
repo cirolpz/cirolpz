@@ -12,7 +12,9 @@ Soy un desarrollador apasionado con experiencia en diversas tecnologías. Me enc
 
 
 ### Proyectos Destacados
-- [Desarrollo de aplicación en Java](enlace-al-proyecto): Aplicación que permite buscar y gestionar series mediante una API, con almacenamiento en base de datos y consulta mediante frontend. Implementé Spring Boot y principios SOLID para un diseño escalable.
+
+  [![https://www.youtube.com/watch?v=OMiMnBaMZz0](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+- [ScreenMatch-ManejoDeSeriesConAPIyBD](https://github.com/cirolpz/ScreenMatch-ManejoDeSeriesConAPIyBD): ScreenMatch | Aplicación basada en Java que permite a los usuarios buscar series de TV y episodios, obtener información detallada y gestionar una colección de series. Utiliza Spring Boot y bases de datos.
   <br>
   [![Video del Proyecto](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 - [Sistema de Envíos](enlace-al-proyecto): Sistema de envío de paquetes que mejora la organización del flujo de envíos. Utiliza POO, TAD, Estructuras de Datos, test unitarios y principios SOLID.
