@@ -19,13 +19,13 @@ Soy un desarrollador apasionado con experiencia en diversas tecnologías. Me enc
   [![Video del Proyecto](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 - [Sistema de Envíos](enlace-al-proyecto): Sistema de envío de paquetes que mejora la organización del flujo de envíos. Utiliza POO, TAD, Estructuras de Datos, test unitarios y principios SOLID.
   <br>
-  [![Video del Proyecto](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+  [![Video del Proyecto](https://img.youtube.com/vi/T1sufIcNDPY/maxresdefault.jpg)](https://youtu.be/watch?T1sufIcNDPY)
 - [Desarrollo de videojuego](enlace-al-proyecto): Videojuego utilizando POO como proyecto solidario para un programa de ayuda a chicos con necesidades especiales.
   <br>
-  [![Video del Proyecto](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=F9NmK5cMNkU)
+[![Video del Proyecto](https://img.youtube.com/vi/F9NmK5cMNkU/maxresdefault.jpg)](https://www.youtube.com/watch?v=F9NmK5cMNkU)
 - [Director de proyectos web](enlace-al-proyecto): Lideré el proceso completo de creación e implementación del sitio web de la Escuela Técnica n°2.
   <br>
-  [![Video del Proyecto](https://img.youtube.com/vi/v=F9NmK5cMNkU/maxresdefault.jpg)](https://www.youtube.com/watch?v=F9NmK5cMNkU)
+[![Video del Proyecto](https://img.youtube.com/vi/F9NmK5cMNkU/maxresdefault.jpg)](https://www.youtube.com/watch?v=F9NmK5cMNkU)
 
 
 ### Contacto
