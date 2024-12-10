@@ -13,9 +13,17 @@ Soy un desarrollador apasionado con experiencia en diversas tecnologías. Me enc
 
 ### Proyectos Destacados
 - [Desarrollo de aplicación en Java](enlace-al-proyecto): Aplicación que permite buscar y gestionar series mediante una API, con almacenamiento en base de datos y consulta mediante frontend. Implementé Spring Boot y principios SOLID para un diseño escalable.
+  <br>
+  [![Video del Proyecto](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 - [Sistema de Envíos](enlace-al-proyecto): Sistema de envío de paquetes que mejora la organización del flujo de envíos. Utiliza POO, TAD, Estructuras de Datos, test unitarios y principios SOLID.
+  <br>
+  [![Video del Proyecto](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 - [Desarrollo de videojuego](enlace-al-proyecto): Videojuego utilizando POO como proyecto solidario para un programa de ayuda a chicos con necesidades especiales.
+  <br>
+  [![Video del Proyecto](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 - [Director de proyectos web](enlace-al-proyecto): Lideré el proceso completo de creación e implementación del sitio web de la Escuela Técnica n°2.
+  <br>
+  [![Video del Proyecto](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
 
 ### Contacto
