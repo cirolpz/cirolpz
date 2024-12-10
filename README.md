@@ -12,46 +12,22 @@ Soy un desarrollador apasionado con experiencia en diversas tecnologías. Me enc
 
 
 ### Proyectos Destacados
-<div style="width: 50%; border: 2px solid orange; padding: 10px; margin: 10px auto;">
-  <a href="https://www.youtube.com/watch?v=2jLjgfIf_14" target="_blank">
-    <img src="https://img.youtube.com/vi/2jLjgfIf_14/maxresdefault.jpg" alt="Video del Proyecto" style="width: 100%;">
-  </a>
-</div>
-- [Clique-Maxima-de-grafo-con-Heuristicas](https://github.com/cirolpz/Clique-Maxima-de-grafo-con-Heuristicas): Implementación de estructuras de datos de grafos y algoritmos relacionados en Java. Proporciona funcionalidades como cargar grafos desde archivos y heurísticas para obtener la clique máxima, con test unitarios.
 
-<div style="width: 50%; border: 2px solid orange; padding: 10px; margin: 10px auto;">
-  <a href="https://www.youtube.com/watch?v=3ohxWuWwB3U" target="_blank">
-    <img src="https://img.youtube.com/vi/3ohxWuWwB3U/maxresdefault.jpg" alt="Video del Proyecto" style="width: 100%;">
-  </a>
-</div>
-- [Generador-de-Regiones-de-grafo](https://github.com/cirolpz/Generador-de-Regiones-de-grafo): Proyecto que permite establecer similitudes entre provincias y visualizar conexiones en un mapa. Verifica si el grafo es conexo y crea regiones basadas en las similitudes entre provincias, con test unitarios.
-
-<div style="width: 50%; border: 2px solid orange; padding: 10px; margin: 10px auto;">
-  <a href="https://www.youtube.com/watch?v=21LM3EXHvR4" target="_blank">
-    <img src="https://img.youtube.com/vi/21LM3EXHvR4/maxresdefault.jpg" alt="Video del Proyecto" style="width: 100%;">
-  </a>
-</div>
-- [juego-2048-java](https://github.com/cirolpz/juego-2048-java): Implementación del popular juego 2048 en Java con una interfaz gráfica de usuario (GUI) usando SWING.
-
-<div style="width: 50%; border: 2px solid orange; padding: 10px; margin: 10px auto;">
-  <a href="https://www.youtube.com/watch?v=F9NmK5cMNkU" target="_blank">
-    <img src="https://img.youtube.com/vi/F9NmK5cMNkU/maxresdefault.jpg" alt="Video del Proyecto" style="width: 100%;">
-  </a>
-</div>
-- [PaginaWEB-Tecnica2DrReneFavaloro](https://github.com/cirolpz/PaginaWEB-Tecnica2DrReneFavaloro): Proyecto final presentado en 2021 para recibirte de técnico informático. Lideré un grupo de cuatro personas en la creación e implementación del sitio web de la Escuela Técnica n°2 Dr. Rene Favaloro.
-
-<div style="width: 50%; border: 2px solid orange; padding: 10px; margin: 10px auto;">
-  <a href="https://www.youtube.com/watch?v=OMiMnBaMZz0" target="_blank">
-    <img src="https://img.youtube.com/vi/OMiMnBaMZz0/maxresdefault.jpg" alt="Video del Proyecto" style="width: 100%;">
-  </a>
-</div>
+[![Video del Proyecto](https://img.youtube.com/vi/OMiMnBaMZz0/maxresdefault.jpg)](https://www.youtube.com/watch?v=OMiMnBaMZz0)
 - [ScreenMatch-ManejoDeSeriesConAPIyBD](https://github.com/cirolpz/ScreenMatch-ManejoDeSeriesConAPIyBD): Aplicación basada en Java que permite a los usuarios buscar series de TV y episodios, obtener información detallada y gestionar una colección de series. Utiliza Spring Boot y bases de datos.
 
-<div style="width: 50%; border: 2px solid orange; padding: 10px; margin: 10px auto;">
-  <a href="https://www.youtube.com/watch?v=N1PzyUvri68" target="_blank">
-    <img src="https://img.youtube.com/vi/N1PzyUvri68/maxresdefault.jpg" alt="Video del Proyecto" style="width: 100%;">
-  </a>
-</div>
+[![Video del Proyecto](https://img.youtube.com/vi/21LM3EXHvR4/maxresdefault.jpg)](https://www.youtube.com/watch?v=21LM3EXHvR4)
+- [Clique-Maxima-de-grafo-con-Heuristicas](https://github.com/cirolpz/Clique-Maxima-de-grafo-con-Heuristicas): Implementación de estructuras de datos de grafos y algoritmos relacionados en Java. Proporciona funcionalidades como cargar grafos desde archivos y heurísticas para obtener la clique máxima, con test unitarios.
+
+[![Video del Proyecto](https://img.youtube.com/vi/3ohxWuWwB3U/maxresdefault.jpg)](https://www.youtube.com/watch?v=3ohxWuWwB3U)
+- [Generador-de-Regiones-de-grafo](https://github.com/cirolpz/Generador-de-Regiones-de-grafo): Proyecto que permite establecer similitudes entre provincias y visualizar conexiones en un mapa. Verifica si el grafo es conexo y crea regiones basadas en las similitudes entre provincias, con test unitarios.
+
+[![Video del Proyecto](https://img.youtube.com/vi/2jLjgfIf_14/maxresdefault.jpg)](https://www.youtube.com/watch?v=2jLjgfIf_14)
+- [juego-2048-java](https://github.com/cirolpz/juego-2048-java): Implementación del popular juego 2048 en Java con una interfaz gráfica de usuario (GUI) usando SWING.
+
+[![Video del Proyecto](https://img.youtube.com/vi/F9NmK5cMNkU/maxresdefault.jpg)](https://www.youtube.com/watch?v=F9NmK5cMNkU)
+- [PaginaWEB-Tecnica2DrReneFavaloro](https://github.com/cirolpz/PaginaWEB-Tecnica2DrReneFavaloro): Proyecto final presentado en 2021 para recibirte de técnico informático. Lideré un grupo de cuatro personas en la creación e implementación del sitio web de la Escuela Técnica n°2 Dr. Rene Favaloro.
+
 - [SISTEMA_DE_ENVIOS_POO](https://github.com/cirolpz/SISTEMA_DE_ENVIOS_POO): Sistema de envío de paquetes que mejora la organización del flujo de envíos. Utiliza POO, TAD, estructuras de datos, test unitarios y principios SOLID.
 
 - [Juego-Java-POO-AstroMegaShip](https://github.com/cirolpz/Juego-Java-POO-AstroMegaShip): Juego desarrollado en Java utilizando POO, creado para un programa de ayuda a niños con capacidades especiales.
