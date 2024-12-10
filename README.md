@@ -18,7 +18,7 @@ Soy un desarrollador apasionado con experiencia en diversas tecnologías. Me enc
       <a href="https://www.youtube.com/watch?v=OMiMnBaMZz0" target="_blank">
         <img src="https://img.youtube.com/vi/OMiMnBaMZz0/maxresdefault.jpg" alt="ScreenMatch-ManejoDeSeriesConAPIyBD" style="width:100%;">
       </a>
-      <p><a href="https://github.com/cirolpz/ScreenMatch-ManejoDeSeriesConAPIyBD">ScreenMatch-ManejoDeSeriesConAPIyBD</a>: Aplicación basada en Java que permite a los usuarios buscar series de TV y episodios, obtener información detallada y gestionar una colección de series. Utiliza Spring Boot y bases de datos.</p>
+      <p><a href="https://github.com/cirolpz/ScreenMatch-ManejoDeSeriesConAPIyBD">ScreenMatch-ManejoDeSeriesConAPIyBD</a>: Aplicación basada en Java que permite a los usuarios buscar series de TV y episodios mediante una API, con almacenamiento en base de datos y consulta mediante frontend.</p>
     </td>
     <td style="width: 50%; border: 2px solid orange; padding: 10px; margin: 10px;">
       <a href="https://www.youtube.com/watch?v=21LM3EXHvR4" target="_blank">
