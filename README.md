@@ -14,7 +14,7 @@ Soy un desarrollador apasionado con experiencia en diversas tecnologías. Me enc
 ### Proyectos Destacados
 
 [![Video del Proyecto](https://img.youtube.com/vi/OMiMnBaMZz0/maxresdefault.jpg)](https://www.youtube.com/watch?v=OMiMnBaMZz0)
-- [ScreenMatch-ManejoDeSeriesConAPIyBD](https://github.com/cirolpz/ScreenMatch-ManejoDeSeriesConAPIyBD): ScreenMatch | Aplicación basada en Java que permite a los usuarios buscar series de TV y episodios, obtener información detallada y gestionar una colección de series. Utiliza Spring Boot y bases de datos.
+- [ScreenMatch-ManejoDeSeriesConAPIyBD](https://github.com/cirolpz/ScreenMatch-ManejoDeSeriesConAPIyBD): Aplicación basada en Java que permite a los usuarios buscar series de TV y episodios, obtener información detallada y gestionar una colección de series. Utiliza Spring Boot y bases de datos.
   <br>
   [![Video del Proyecto](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 - [Sistema de Envíos](enlace-al-proyecto): Sistema de envío de paquetes que mejora la organización del flujo de envíos. Utiliza POO, TAD, Estructuras de Datos, test unitarios y principios SOLID.
@@ -25,7 +25,7 @@ Soy un desarrollador apasionado con experiencia en diversas tecnologías. Me enc
   [![Video del Proyecto](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 - [Director de proyectos web](enlace-al-proyecto): Lideré el proceso completo de creación e implementación del sitio web de la Escuela Técnica n°2.
   <br>
-  [![Video del Proyecto](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+  [![Video del Proyecto](https://img.youtube.com/vi/v=F9NmK5cMNkU/maxresdefault.jpg)](https://www.youtube.com/watch?v=F9NmK5cMNkU)
 
 
 ### Contacto
