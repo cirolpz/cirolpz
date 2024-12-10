@@ -1,7 +1,7 @@
 # Hola, soy Ciro López 👋
 
 ### Sobre mí
-Soy un desarrollador apasionado con una sólida experiencia en diversas tecnologías. Me encanta aprender y colaborar en proyectos desafiantes e innovadores. Actualmente, estoy cursando el tercer año de la Licenciatura en Sistemas y soy Técnico Informático especializado en programación. Mi enfoque se centra en aplicar buenas prácticas de desarrollo, como MVC, POO, estructuras de datos, SCRUM y principios SOLID, para crear soluciones eficientes y escalables. Disfruto trabajando en equipo y creo firmemente que la colaboración efectiva conduce a mejores resultados.
+Soy un desarrollador apasionado con experiencia en diversas tecnologías. Me encanta aprender y colaborar en proyectos desafiantes e innovadores. Actualmente, estoy cursando el tercer año de la Licenciatura en Sistemas y soy Técnico Informático especializado en programación. Disfruto trabajando en equipo y creo firmemente que la colaboración efectiva conduce a mejores resultados.
 
 ### Tecnologías con las que trabajé
 - **Lenguajes de programación:** <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
@@ -52,7 +52,7 @@ Soy un desarrollador apasionado con una sólida experiencia en diversas tecnolog
       <a href="https://www.youtube.com/watch?v=bTxkskolrQo" target="_blank">
         <img src="https://img.youtube.com/vi/bTxkskolrQo/maxresdefault.jpg" alt="Wordle-en-Assembler-ARM" style="width:100%;">
       </a>
-      <p><a href="https://github.com/cirolpz/Wordle-en-Assembler-ARM">Wordle-en-Assembler-ARM</a>: Este proyecto es un juego de Wordle para consola, desarrollado en lenguaje ensamblador ARMv6 para la Raspberry Pi v1.2. Representa la aplicación de técnicas de programación de bajo nivel.</p>
+      <p><a href="https://github.com/cirolpz/Wordle-en-Assembler-ARM">Wordle-en-Assembler-ARM</a>: Este proyecto es un juego de Wordle para consola, desarrollado en lenguaje ensamblador ARMv6 para la Raspberry Pi v1.2. La aplicacion utiliza técnicas de programación de bajo nivel.</p>
     </td>
   </tr>
 </table>
@@ -70,9 +70,9 @@ Soy un desarrollador apasionado con una sólida experiencia en diversas tecnolog
 - **LinkedIn:** [Ciro Lopez](https://www.linkedin.com/in/ciro-lopez-835259184/)
 
 ### Otros
-- 🌱 Actualmente estoy aprendiendo: Docker, Angular y Spring Boot
-- 💬 Pregúntame sobre: Desarrollo web, programación en Java, ciberseguridad
-- ⚡ Dato curioso: Disfruto aprendiendo y trabajando en equipo, creyendo que la colaboración eficiente lleva a mejores resultados.
+- 🌱 Actualmente estoy aprendiendo: Docker, Angular y Spring Boot.
+- 💬 Pregúntame sobre: Desarrollo web, programación en Java, ciberseguridad.
+- ⚡ Dato curioso: Me gusta Java.
 
 ![cirolpz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cirolpz&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
 
