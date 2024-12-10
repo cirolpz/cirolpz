@@ -13,7 +13,7 @@ Soy un desarrollador apasionado con experiencia en diversas tecnologías. Me enc
 
 ### Proyectos Destacados
 
-  [![https://www.youtube.com/watch?v=OMiMnBaMZz0](https://img.youtube.com/vi/watch?v=OMiMnBaMZz0/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+  [![https://youtu.be/OMiMnBaMZz0?si=dtRYEIa90XhB1WLP](https://img.youtube.com/vi/watch?v=OMiMnBaMZz0/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 - [ScreenMatch-ManejoDeSeriesConAPIyBD](https://github.com/cirolpz/ScreenMatch-ManejoDeSeriesConAPIyBD): ScreenMatch | Aplicación basada en Java que permite a los usuarios buscar series de TV y episodios, obtener información detallada y gestionar una colección de series. Utiliza Spring Boot y bases de datos.
   <br>
   [![Video del Proyecto](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
