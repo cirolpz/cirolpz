@@ -31,13 +31,11 @@ Soy un desarrollador apasionado con experiencia en diversas tecnologías. Me enc
 [![Video del Proyecto](https://img.youtube.com/vi/N1PzyUvri68/maxresdefault.jpg)](https://www.youtube.com/watch?v=N1PzyUvri68)
 - [SISTEMA_DE_ENVIOS_POO](https://github.com/cirolpz/SISTEMA_DE_ENVIOS_POO): Sistema de envío de paquetes que mejora la organización del flujo de envíos. Utiliza POO, TAD, estructuras de datos, test unitarios y principios SOLID.
 
-[![Video del Proyecto](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Video del Proyecto](https://img.youtube.com/vi/T1sufIcNDPY/maxresdefault.jpg)](https://www.youtube.com/watch?v=T1sufIcNDPY)
 - [Juego-Java-POO-AstroMegaShip](https://github.com/cirolpz/Juego-Java-POO-AstroMegaShip): Juego desarrollado en Java utilizando POO, creado para un programa de ayuda a niños con capacidades especiales.
 
-[![Video del Proyecto](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 - [CampanaEmailMarketingSpringBoot](https://github.com/cirolpz/CampanaEmailMarketingSpringBoot): Aplicación basada en Spring Boot diseñada para gestionar campañas de marketing por correo electrónico.
 
-[![Video del Proyecto](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 - [TriviaConChatGPTYBaseDeDatos](https://github.com/cirolpz/TriviaConChatGPTYBaseDeDatos): Proyecto para aprender Spring Boot y conectarse a la API de ChatGPT y una base de datos. Las preguntas de la trivia las realiza ChatGPT o se cargan manualmente.
 
 
