@@ -12,52 +12,51 @@ Soy un desarrollador apasionado con experiencia en diversas tecnologías. Me enc
 
 ### Proyectos Destacados
 
-<table>
+<table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif; margin: 20px 0;">
   <tr>
-    <td style="width: 50%; border: 2px solid orange; padding: 10px; margin: 10px;">
+    <td style="width: 50%; border: 2px solid #FFA500; padding: 15px;">
       <a href="https://www.youtube.com/watch?v=3LF_k-Gb7qM" target="_blank">
-        <img src="https://img.youtube.com/vi/3LF_k-Gb7qM/maxresdefault.jpg" alt="API REST Foro-Hub con Spring Boot" style="width:100%;">
+        <img src="https://img.youtube.com/vi/3LF_k-Gb7qM/maxresdefault.jpg" alt="API REST Foro-Hub con Spring Boot" style="width: 100%; border-radius: 8px;">
       </a>
-      <p><a href="https://github.com/cirolpz/Foro-Hub">API REST Foro-Hub con Spring Boot</a>: Foro-Hub es una API REST que permite gestionar tópicos en un foro. Las principales funcionalidades incluyen crear, leer, actualizar y eliminar Tópicos, así como gestionar Usuarios, Cursos, Perfiles y Respuestas. La API está protegida con Spring Security, utilizando HMAC256 como algoritmo de encriptación y Auth0 para la generación y validación de tokens JWT.
-
-El proyecto implementa Docker, migraciones con Flyway, y variables de entorno para facilitar la portabilidad y despliegue.</p>
+      <p style="margin: 10px 0;"><a href="https://github.com/cirolpz/Foro-Hub" style="text-decoration: none; color: #0066CC; font-weight: bold;">API REST Foro-Hub con Spring Boot</a>: Foro-Hub es una API REST que permite gestionar tópicos en un foro. Las principales funcionalidades incluyen crear, leer, actualizar y eliminar tópicos, gestionar usuarios, cursos, perfiles y respuestas. Implementa Spring Security con HMAC256 y Auth0, Docker, migraciones Flyway y variables de entorno.</p>
     </td>
-    <td style="width: 50%; border: 2px solid orange; padding: 10px; margin: 10px;">
+    <td style="width: 50%; border: 2px solid #FFA500; padding: 15px;">
       <a href="https://www.youtube.com/watch?v=OMiMnBaMZz0" target="_blank">
-        <img src="https://img.youtube.com/vi/OMiMnBaMZz0/maxresdefault.jpg" alt="ScreenMatch-ManejoDeSeriesConAPIyBD" style="width:100%;">
+        <img src="https://img.youtube.com/vi/OMiMnBaMZz0/maxresdefault.jpg" alt="ScreenMatch-ManejoDeSeriesConAPIyBD" style="width: 100%; border-radius: 8px;">
       </a>
-      <p><a href="https://github.com/cirolpz/ScreenMatch-ManejoDeSeriesConAPIyBD">ScreenMatch-ManejoDeSeriesConAPIyBD</a>: Aplicación basada en Java que permite a los usuarios buscar series de TV y episodios mediante una API, con almacenamiento en base de datos y consulta mediante frontend.</p>
+      <p style="margin: 10px 0;"><a href="https://github.com/cirolpz/ScreenMatch-ManejoDeSeriesConAPIyBD" style="text-decoration: none; color: #0066CC; font-weight: bold;">ScreenMatch-ManejoDeSeriesConAPIyBD</a>: Aplicación en Java que permite a los usuarios buscar series y episodios mediante una API, con almacenamiento en base de datos y consulta desde un frontend.</p>
     </td>
-    <td style="width: 50%; border: 2px solid orange; padding: 10px; margin: 10px;">
+  </tr>
+  <tr>
+    <td style="width: 50%; border: 2px solid #FFA500; padding: 15px;">
       <a href="https://www.youtube.com/watch?v=21LM3EXHvR4" target="_blank">
-        <img src="https://img.youtube.com/vi/21LM3EXHvR4/maxresdefault.jpg" alt="Clique-Maxima-de-grafo-con-Heuristicas" style="width:100%;">
+        <img src="https://img.youtube.com/vi/21LM3EXHvR4/maxresdefault.jpg" alt="Clique-Maxima-de-grafo-con-Heuristicas" style="width: 100%; border-radius: 8px;">
       </a>
-      <p><a href="https://github.com/cirolpz/Clique-Maxima-de-grafo-con-Heuristicas">Clique-Maxima-de-grafo-con-Heuristicas</a>: Implementación de estructuras de datos de grafos y algoritmos relacionados en Java. Proporciona funcionalidades como cargar grafos desde archivos y heurísticas para obtener la clique máxima, con test unitarios.</p>
+      <p style="margin: 10px 0;"><a href="https://github.com/cirolpz/Clique-Maxima-de-grafo-con-Heuristicas" style="text-decoration: none; color: #0066CC; font-weight: bold;">Clique-Maxima-de-grafo-con-Heuristicas</a>: Implementación de estructuras de datos de grafos y algoritmos en Java, con heurísticas para obtener la clique máxima y test unitarios.</p>
     </td>
-  </tr>
-  <tr>
-    <td style="width: 50%; border: 2px solid orange; padding: 10px; margin: 10px;">
+    <td style="width: 50%; border: 2px solid #FFA500; padding: 15px;">
       <a href="https://www.youtube.com/watch?v=3ohxWuWwB3U" target="_blank">
-        <img src="https://img.youtube.com/vi/3ohxWuWwB3U/maxresdefault.jpg" alt="Generador-de-Regiones-de-grafo" style="width:100%;">
+        <img src="https://img.youtube.com/vi/3ohxWuWwB3U/maxresdefault.jpg" alt="Generador-de-Regiones-de-grafo" style="width: 100%; border-radius: 8px;">
       </a>
-      <p><a href="https://github.com/cirolpz/Generador-de-Regiones-de-grafo">Generador-de-Regiones-de-grafo</a>: Proyecto que permite establecer similitudes entre provincias y visualizar conexiones en un mapa. Verifica si el grafo es conexo y crea regiones basadas en las similitudes entre provincias, con test unitarios.</p>
-    </td>
-    <td style="width: 50%; border: 2px solid orange; padding: 10px; margin: 10px;">
-      <a href="https://www.youtube.com/watch?v=2jLjgfIf_14" target="_blank">
-        <img src="https://img.youtube.com/vi/2jLjgfIf_14/maxresdefault.jpg" alt="juego-2048-java" style="width:100%;">
-      </a>
-      <p><a href="https://github.com/cirolpz/juego-2048-java">juego-2048-java</a>: Implementación del popular juego 2048 en Java con una interfaz gráfica de usuario (GUI) usando SWING.</p>
+      <p style="margin: 10px 0;"><a href="https://github.com/cirolpz/Generador-de-Regiones-de-grafo" style="text-decoration: none; color: #0066CC; font-weight: bold;">Generador-de-Regiones-de-grafo</a>: Proyecto para establecer similitudes entre provincias y visualizar conexiones en un mapa, verificando si el grafo es conexo y generando regiones.</p>
     </td>
   </tr>
   <tr>
-    <td style="width: 50%; border: 2px solid orange; padding: 10px; margin: 10px;">
-      <a href="https://www.youtube.com/watch?v=F9NmK5cMNkU" target="_blank">
-        <img src="https://img.youtube.com/vi/F9NmK5cMNkU/maxresdefault.jpg" alt="PaginaWEB-Tecnica2DrReneFavaloro" style="width:100%;">
+    <td style="width: 50%; border: 2px solid #FFA500; padding: 15px;">
+      <a href="https://www.youtube.com/watch?v=2jLjgfIf_14" target="_blank">
+        <img src="https://img.youtube.com/vi/2jLjgfIf_14/maxresdefault.jpg" alt="juego-2048-java" style="width: 100%; border-radius: 8px;">
       </a>
-      <p><a href="https://github.com/cirolpz/PaginaWEB-Tecnica2DrReneFavaloro">PaginaWEB-Tecnica2DrReneFavaloro</a>: Proyecto final presentado en 2021 para recibirte de técnico informático. Lideré un grupo de cuatro personas en la creación e implementación del sitio web de la Escuela Técnica n°2 Dr. Rene Favaloro.</p>
+      <p style="margin: 10px 0;"><a href="https://github.com/cirolpz/juego-2048-java" style="text-decoration: none; color: #0066CC; font-weight: bold;">Juego 2048</a>: Versión del juego 2048 desarrollado en Java con interfaz gráfica utilizando Swing.</p>
+    </td>
+    <td style="width: 50%; border: 2px solid #FFA500; padding: 15px;">
+      <a href="https://www.youtube.com/watch?v=F9NmK5cMNkU" target="_blank">
+        <img src="https://img.youtube.com/vi/F9NmK5cMNkU/maxresdefault.jpg" alt="PaginaWEB-Tecnica2DrReneFavaloro" style="width: 100%; border-radius: 8px;">
+      </a>
+      <p style="margin: 10px 0;"><a href="https://github.com/cirolpz/PaginaWEB-Tecnica2DrReneFavaloro" style="text-decoration: none; color: #0066CC; font-weight: bold;">Página Web Técnica N°2 Dr. René Favaloro</a>: Proyecto final presentado en 2021 para la creación e implementación del sitio web de la escuela, liderando un equipo de cuatro personas.</p>
     </td>
   </tr>
 </table>
+
 
 - [Wordle-en-Assembler-ARM](https://github.com/cirolpz/Wordle-en-Assembler-ARM): Este proyecto es un juego de Wordle para consola, desarrollado en lenguaje ensamblador ARMv6 para la Raspberry Pi v1.2. La aplicacion utiliza técnicas de programación de bajo nivel.
 
