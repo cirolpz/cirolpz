@@ -15,6 +15,14 @@ Soy un desarrollador apasionado con experiencia en diversas tecnologías. Me enc
 <table>
   <tr>
     <td style="width: 50%; border: 2px solid orange; padding: 10px; margin: 10px;">
+      <a href="https://www.youtube.com/watch?v=3LF_k-Gb7qM" target="_blank">
+        <img src="https://img.youtube.com/vi/3LF_k-Gb7qM/maxresdefault.jpg" alt="API REST Foro-Hub con Spring Boot" style="width:100%;">
+      </a>
+      <p><a href="https://github.com/cirolpz/Foro-Hub">API REST Foro-Hub con Spring Boot</a>: Foro-Hub es una API REST que permite gestionar tópicos en un foro. Las principales funcionalidades incluyen crear, leer, actualizar y eliminar Tópicos, así como gestionar Usuarios, Cursos, Perfiles y Respuestas. La API está protegida con Spring Security, utilizando HMAC256 como algoritmo de encriptación y Auth0 para la generación y validación de tokens JWT.
+
+El proyecto implementa Docker, migraciones con Flyway, y variables de entorno para facilitar la portabilidad y despliegue.</p>
+    </td>
+    <td style="width: 50%; border: 2px solid orange; padding: 10px; margin: 10px;">
       <a href="https://www.youtube.com/watch?v=OMiMnBaMZz0" target="_blank">
         <img src="https://img.youtube.com/vi/OMiMnBaMZz0/maxresdefault.jpg" alt="ScreenMatch-ManejoDeSeriesConAPIyBD" style="width:100%;">
       </a>
@@ -48,14 +56,10 @@ Soy un desarrollador apasionado con experiencia en diversas tecnologías. Me enc
       </a>
       <p><a href="https://github.com/cirolpz/PaginaWEB-Tecnica2DrReneFavaloro">PaginaWEB-Tecnica2DrReneFavaloro</a>: Proyecto final presentado en 2021 para recibirte de técnico informático. Lideré un grupo de cuatro personas en la creación e implementación del sitio web de la Escuela Técnica n°2 Dr. Rene Favaloro.</p>
     </td>
-    <td style="width: 50%; border: 2px solid orange; padding: 10px; margin: 10px;">
-      <a href="https://www.youtube.com/watch?v=bTxkskolrQo" target="_blank">
-        <img src="https://img.youtube.com/vi/bTxkskolrQo/maxresdefault.jpg" alt="Wordle-en-Assembler-ARM" style="width:100%;">
-      </a>
-      <p><a href="https://github.com/cirolpz/Wordle-en-Assembler-ARM">Wordle-en-Assembler-ARM</a>: Este proyecto es un juego de Wordle para consola, desarrollado en lenguaje ensamblador ARMv6 para la Raspberry Pi v1.2. La aplicacion utiliza técnicas de programación de bajo nivel.</p>
-    </td>
   </tr>
 </table>
+
+- [Wordle-en-Assembler-ARM](https://github.com/cirolpz/Wordle-en-Assembler-ARM): Este proyecto es un juego de Wordle para consola, desarrollado en lenguaje ensamblador ARMv6 para la Raspberry Pi v1.2. La aplicacion utiliza técnicas de programación de bajo nivel.
 
 - [SISTEMA_DE_ENVIOS_POO](https://github.com/cirolpz/SISTEMA_DE_ENVIOS_POO): Sistema de envío de paquetes que mejora la organización del flujo de envíos. Utiliza POO, TAD, estructuras de datos, test unitarios y principios SOLID.
 
